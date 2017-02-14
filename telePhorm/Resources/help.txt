@@ -1,0 +1,16 @@
+
+(c)2015 Emerge-IT.
+  By Simon Barnett.
+  Build: $build$
+  
+telePhorm.exe 
+  -clid {NUMBER} 
+  | -usr {NAME} | -pwd {PASS} | -xml {FEED}) 
+  | ?
+
+  -clid  The incoming phone number to locate.  
+  -usr  Set the priority user.
+  -pwd  Set the password for the Priority User.
+  -xml  Set the xml server to lookup phone numbers.  
+  -?    This help file.
+  
